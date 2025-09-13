@@ -2,14 +2,6 @@
 
 **Projet basé sur la programmation logique (PROLOG)**: construction et optimisation d'une logique pour vérifier si un suspect est coupable ou non d'un crime à l'aide des informations déjà à disposition.
 
-### Membres de groupe 🤝:
-- ANDRIAMANANTENA Elvis Sylvano *(2768)*
-- RABEARIMANANA Faniriniaina Luciano *(2587)*
-- TIDA Ratsaranjanahary Lauralien *(2738)*
-- FENO Aïdane Carlie *(2669)*
-- SAMUELSON RAHITAVOLA Chryswdell Jeannioh *(2754)*
-- RATEFINJANAHARY Hosea Elistian Loic *(2771)*
-- TODY Eugène Romario *(2784)*
 
 ## Installation 📦
 Il faut quelques pré-requis pour pouvoir installer et lancer l'application correctement:
@@ -23,7 +15,7 @@ Puis:
 - Cloner le depôt avec la commande suivante:
 
 ```bash
-git clone https://github.com/Elvis-Sy/Enquete_ia .
+git clone https://github.com/Faniry05/Prolog-ia .
 ```
 
 - Acceder au dossier `frontend` et installer les dépendances:
