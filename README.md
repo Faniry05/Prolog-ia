@@ -1,3 +1,5 @@
+
+1581 H-F RANDRIAMANANTENA Ranja Faniry
 # Enquête policière (Projet IA)
 
 **Projet basé sur la programmation logique (PROLOG)**: construction et optimisation d'une logique pour vérifier si un suspect est coupable ou non d'un crime à l'aide des informations déjà à disposition.
